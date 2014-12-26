@@ -50,7 +50,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ModdingPractice.iml" filepath="$PROJECT_DIR$/ModdingPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomStuff.iml" filepath="$PROJECT_DIR$/RandomStuff.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
