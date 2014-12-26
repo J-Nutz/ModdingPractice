@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "randomstufff",
+    "name": "Random Stuff",
+    "description": "Making My Own Mod!",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "Google.com",
+    "updateUrl": "",
+    "authorList": [
+      "JNutz"
+    ],
+    "credits": "JNutz And Pahimar",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
