@@ -1,6 +1,6 @@
 [
   {
-    "modid": "randomstufff",
+    "modid": "randomstuff",
     "name": "Random Stuff",
     "description": "Making My Own Mod!",
     "version": "1.0",
@@ -10,7 +10,7 @@
     "authorList": [
       "JNutz"
     ],
-    "credits": "JNutz And Pahimar",
+    "credits": "JNutz + Pahimar",
     "logoFile": "",
     "screenshots": [
     ],
