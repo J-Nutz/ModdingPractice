@@ -1,0 +1,18 @@
+When updating Minecraft + Forge
+
+Change versions in build.gradle
+
+Open terminal in Intellij
+
+Run gradlew clean
+
+Run gradlew setupDecompWorkspace
+
+Run gradlew idea
+
+Run exit
+
+Done!
+
+Everything will be saved, Dont have to reopen projects or anything
+
