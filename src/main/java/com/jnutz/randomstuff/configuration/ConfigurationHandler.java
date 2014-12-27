@@ -5,7 +5,7 @@ import java.io.File;
 
 public class ConfigurationHandler {
 
-    //Remove Print
+    public static Configuration configuration;
 
     public static void init(File configFile){
 
@@ -31,8 +31,11 @@ public class ConfigurationHandler {
         }finally {
 
             //Save The Configuration
-            configuration.save();
+            if(configuration.hasChanged()) {
 
+                configuration.save();
+
+            }
         }
 
     }
