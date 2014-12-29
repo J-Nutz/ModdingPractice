@@ -6,6 +6,8 @@ import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemSword;
+import net.minecraftforge.common.util.EnumHelper;
 
 public class itemRS extends Item {
 
@@ -42,5 +44,9 @@ public class itemRS extends Item {
         return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
 
     }
+
+    //public static material(ItemStack ) {
+    //ToolMaterial poopSword = EnumHelper.addToolMaterial("poopSword", 3, 1000, 15.0f, 4.0f, 30);
+    //}
 
 }
