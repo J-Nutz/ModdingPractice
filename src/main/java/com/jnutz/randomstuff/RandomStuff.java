@@ -1,6 +1,7 @@
 package com.jnutz.randomstuff;
 
 import com.jnutz.randomstuff.handler.ConfigurationHandler;
+import com.jnutz.randomstuff.init.ModItems;
 import com.jnutz.randomstuff.proxy.IProxy;
 import com.jnutz.randomstuff.reference.Reference;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -24,7 +25,9 @@ public class RandomStuff {
     public void preInit(FMLPreInitializationEvent event){
 
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+        //FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
+        ModItems.init();
 
 
     }
