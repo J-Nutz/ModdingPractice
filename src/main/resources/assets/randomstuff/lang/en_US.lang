@@ -3,3 +3,5 @@ item.randomstuff:mapleLeaf.name=Maple Leaf of Awesomeness
 item.randomstuff:poopSword.name=Poop Sword
 
 item.randomstuff:candyCane.name=Candy Cane
+
+tile.randomstuff:flag.name=Flag
