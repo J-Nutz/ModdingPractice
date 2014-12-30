@@ -1,48 +1,44 @@
-[22:34:12] [main/INFO]: Setting user: Player281
-[22:34:14] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:34:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
-[22:34:19] [Sound Library Loader/INFO]: Sound engine started
-[22:34:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:34:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:34:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
-[22:34:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:34:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:34:22] [Sound Library Loader/INFO]: Sound engine started
-[22:34:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:34:46] [Server thread/INFO]: Generating keypair
-[22:34:46] [Server thread/INFO]: Preparing start region for level 0
-[22:34:47] [Server thread/INFO]: Changing view distance to 8, from 10
-[22:34:47] [Server thread/INFO]: Player281[local:E:1c58f575] logged in with entity id 162 at (-1277.3446197665837, 4.0, 141.65334247670424)
-[22:34:47] [Server thread/INFO]: Player281 joined the game
-[22:34:54] [Server thread/INFO]: Player281 has just earned the achievement [Taking Inventory]
-[22:34:54] [Client thread/INFO]: [CHAT] Player281 has just earned the achievement [Taking Inventory]
-[22:35:10] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
-[22:35:11] [Server thread/INFO]: [Player281: Set own game mode to Creative Mode]
-[22:35:11] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:35:48] [Server thread/INFO]: Saving and pausing game...
-[22:35:48] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[22:35:48] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[22:35:48] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[22:36:25] [Server thread/INFO]: [Player281: Set own game mode to Survival Mode]
-[22:36:25] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:36:52] [Server thread/INFO]: [Player281: Set own game mode to Creative Mode]
-[22:36:52] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:36:58] [Server thread/INFO]: [Player281: Set own game mode to Survival Mode]
-[22:36:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:37:26] [Server thread/INFO]: Saving and pausing game...
-[22:37:26] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[22:37:26] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[22:37:26] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[22:38:40] [Server thread/INFO]: [Player281: Set own game mode to Creative Mode]
-[22:38:40] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[22:38:48] [Server thread/INFO]: Saving and pausing game...
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[22:38:48] [Server thread/INFO]: Stopping server
-[22:38:48] [Server thread/INFO]: Saving players
-[22:38:48] [Server thread/INFO]: Saving worlds
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[22:38:48] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[22:38:49] [Client thread/INFO]: Stopping!
+[00:18:44] [main/INFO]: Setting user: Player328
+[00:18:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:18:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
+[00:18:52] [Sound Library Loader/INFO]: Sound engine started
+[00:18:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:18:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:18:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
+[00:18:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:18:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:18:54] [Sound Library Loader/INFO]: Sound engine started
+[00:19:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:19:08] [Server thread/INFO]: Generating keypair
+[00:19:09] [Server thread/INFO]: Preparing start region for level 0
+[00:19:09] [Server thread/INFO]: Changing view distance to 8, from 10
+[00:19:10] [Server thread/INFO]: Player328[local:E:fae489ff] logged in with entity id 162 at (-1279.835465311326, 4.0, 142.55210749891756)
+[00:19:10] [Server thread/INFO]: Player328 joined the game
+[00:19:17] [Server thread/INFO]: Saving and pausing game...
+[00:19:17] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
+[00:19:17] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
+[00:19:17] [Server thread/INFO]: Saving chunks for level 'testing'/The End
+[00:19:18] [Server thread/INFO]: Player328 has just earned the achievement [Taking Inventory]
+[00:19:18] [Client thread/INFO]: [CHAT] Player328 has just earned the achievement [Taking Inventory]
+[00:19:24] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[00:19:24] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[00:19:25] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[00:19:27] [Server thread/INFO]: [Player328: Set own game mode to Survival Mode]
+[00:19:27] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[00:19:30] [Server thread/INFO]: [Player328: Set own game mode to Creative Mode]
+[00:19:30] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[00:19:35] [Server thread/INFO]: [Player328: Set own game mode to Survival Mode]
+[00:19:35] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[00:20:30] [Server thread/INFO]: [Player328: Set own game mode to Creative Mode]
+[00:20:30] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[00:20:32] [Server thread/INFO]: Saving and pausing game...
+[00:20:32] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
+[00:20:32] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
+[00:20:33] [Server thread/INFO]: Saving chunks for level 'testing'/The End
+[00:20:33] [Server thread/INFO]: Stopping server
+[00:20:33] [Server thread/INFO]: Saving players
+[00:20:33] [Server thread/INFO]: Saving worlds
+[00:20:33] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
+[00:20:33] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
+[00:20:33] [Server thread/INFO]: Saving chunks for level 'testing'/The End
+[00:20:38] [Client thread/INFO]: Stopping!
