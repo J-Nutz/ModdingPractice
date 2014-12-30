@@ -3,7 +3,7 @@ package com.jnutz.randomstuff.item;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.util.EnumHelper;
 
-public class materials extends Item {
+public class itemMaterials extends Item {
 
 
     //Constructors
