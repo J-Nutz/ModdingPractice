@@ -7,7 +7,6 @@ public class itemMapleLeaf extends itemRS{
         super();
         this.setUnlocalizedName("mapleLeaf");
 
-
     }
 
 }

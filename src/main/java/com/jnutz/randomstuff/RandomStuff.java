@@ -25,7 +25,7 @@ public class RandomStuff {
     public void preInit(FMLPreInitializationEvent event){
 
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-        //FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         ModItems.init();
 

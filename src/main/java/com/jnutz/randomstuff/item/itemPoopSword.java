@@ -1,13 +1,10 @@
 package com.jnutz.randomstuff.item;
 
-import net.minecraft.item.ItemSword;
-
-public class itemPoopSword extends ItemSword{
-
+public class itemPoopSword extends itemRS{
 
     public itemPoopSword(){
 
-        super(material);
+        super();
         this.setUnlocalizedName("poopSword");
 
     }
