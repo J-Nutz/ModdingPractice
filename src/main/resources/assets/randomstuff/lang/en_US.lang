@@ -1,7 +1,18 @@
-
-item.randomstuff:mapleLeaf.name=Maple Leaf of Awesomeness
+//Naming Items
+item.randomstuff:mapleLeaf.name=Maple Leaf
 item.randomstuff:poopSword.name=Poop Sword
 
+//Naming Ingots
+item.randomstuff:purpleIngot.name=Purple Ingot
+
+//Naming Foods
 item.randomstuff:candyCane.name=Candy Cane
 
+//Naming Blocks
 tile.randomstuff:flag.name=Flag
+
+//Ores
+tile.randomstuff:purpleOre.name=Purple Ore
+
+//Creative Tabs
+itemGroup.PurpleTab=Purple Tab
