@@ -1,10 +1,7 @@
 package com.jnutz.randomstuff.init;
 
 import com.jnutz.randomstuff.food.candyCane;
-import com.jnutz.randomstuff.item.itemMapleLeaf;
-import com.jnutz.randomstuff.item.itemMaterials;
-import com.jnutz.randomstuff.item.itemPoopSword;
-import com.jnutz.randomstuff.item.itemRS;
+import com.jnutz.randomstuff.item.*;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemSword;
@@ -15,6 +12,7 @@ public class ModItems {
 
     //Initiating Items
     public static final itemRS mapleLeaf = new itemMapleLeaf();
+    public static final itemRS purpleIngot = new purpleIngot();
     public static final ItemSword poopSword = new itemPoopSword(itemMaterials.poopMat);
 
     //Initiating Foods
@@ -34,7 +32,7 @@ public class ModItems {
 
 
     //Registering Items
-    public static void init(){
+    public static void preInit(){
 
         //Items
         //Constructors
@@ -42,6 +40,7 @@ public class ModItems {
         //MC String Name
         GameRegistry.registerItem(mapleLeaf, "mapleLeaf");
         GameRegistry.registerItem(poopSword, "poopSword");
+        GameRegistry.registerItem(purpleIngot, "purpleIngot");
 
         //Foods
         GameRegistry.registerItem(candyCane, "candyCane");

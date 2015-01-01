@@ -16,13 +16,6 @@ public class blockRS extends Block {
 
     }
 
-    //Uhh... Gives default material?
-    public blockRS(){
-
-        this(Material.rock);
-
-    }
-
     //Sets up name based on MC Form
     @Override
     public String getUnlocalizedName(){

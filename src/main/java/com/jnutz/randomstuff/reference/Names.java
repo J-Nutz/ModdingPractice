@@ -9,4 +9,10 @@ public class Names {
 
     }
 
+    public static final class Ores{
+
+        public static final String PURPLE_ORE = "purpleOre";
+
+    }
+
 }

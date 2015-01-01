@@ -11,6 +11,8 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.item.ItemStack;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class RandomStuff {
@@ -22,6 +24,7 @@ public class RandomStuff {
     @Mod.Instance(Reference.MOD_ID)
     public static RandomStuff instance;
 
+    //Register Blocks and items and such
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event){
 
@@ -30,11 +33,13 @@ public class RandomStuff {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         //Initializes the items
-        ModItems.init();
+        ModItems.preInit();
 
         //Initializes the blocks
-        ModBlocks.init();
+        ModBlocks.preInit();
 
+        //Adds Smelting Recipes
+        GameRegistry.addSmelting(new ItemStack(ModBlocks.purpleOre, 1, 1), new ItemStack(ModItems.purpleIngot, 1, 11), 0.4F);
 
     }
 

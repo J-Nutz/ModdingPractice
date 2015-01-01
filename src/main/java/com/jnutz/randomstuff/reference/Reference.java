@@ -12,7 +12,8 @@ public class Reference {
     public static final String SERVER_PROXY_CLASS = "com.jnutz.randomstuff.proxy.ServerProxy";
     public static final String GUI_FACTORY_CLASS = "com.jnutz.randomstuff.client.gui.GuiFactory";
 
-    //
+    //Textures
+    public static final String ARMOR_TEXTURE_FOLDER = "assets.randomstuff.textures.armor";
 
 
 }
