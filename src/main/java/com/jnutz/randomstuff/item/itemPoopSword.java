@@ -1,5 +1,6 @@
 package com.jnutz.randomstuff.item;
 
+import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -16,7 +17,7 @@ public class itemPoopSword extends ItemSword{
         super(material);
         this.setUnlocalizedName("poopSword");
         this.setMaxStackSize(1);
-        this.setCreativeTab(CreativeTabs.tabCombat);
+        this.setCreativeTab(PurpTab.PurpleTab);
 
     }
 

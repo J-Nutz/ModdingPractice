@@ -2,15 +2,17 @@ package com.jnutz.randomstuff.block;
 
 import com.jnutz.randomstuff.reference.Names;
 import com.jnutz.randomstuff.reference.Reference;
+
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
+
 import net.minecraft.block.BlockOre;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 
-public class purpleOre extends BlockOre {
+public class blockPurpleOre extends BlockOre {
 
-    public purpleOre() {
+    public blockPurpleOre() {
 
         super();
         this.setBlockTextureName(Names.Ores.PURPLE_ORE);
@@ -19,10 +21,9 @@ public class purpleOre extends BlockOre {
         this.setHardness(2.5f);
         this.setBlockName(Names.Ores.PURPLE_ORE);
 
-
     }
 
-    //Sets up name based on MC Form
+    /** Sets up name based on MC Form **/
     @Override
     public String getUnlocalizedName() {
 
@@ -36,7 +37,7 @@ public class purpleOre extends BlockOre {
 
     }
 
-    //Sets up block texture
+    /** Sets up block texture **/
     @Override
     @SideOnly(Side.CLIENT)
     public void registerBlockIcons(IIconRegister iconRegister){

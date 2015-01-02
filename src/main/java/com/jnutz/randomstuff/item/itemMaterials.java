@@ -16,9 +16,10 @@ public class itemMaterials extends Item {
     //int enchantability
 
     //All Materials For Items
-    public static Item.ToolMaterial poopMat = EnumHelper.addToolMaterial("poopMat", 0, 250, 1.0f, 2.0f, 20);
+    public static Item.ToolMaterial poopMat = EnumHelper.addToolMaterial("poopMat", 0, 250, 1.0f, 2.0f, 10);
+    public static Item.ToolMaterial purpleMat = EnumHelper.addToolMaterial("purpleMat", 2, 750, 6.5f, 2.5f, 25);
 
     //All Materials For Armour
-    public static ItemArmor.ArmorMaterial purpleMat = EnumHelper.addArmorMaterial("purpleMat", 650, new int[] {3, 6, 5 ,3}, 15 );
+    public static ItemArmor.ArmorMaterial purpleArmMat = EnumHelper.addArmorMaterial("purpleMat", 650, new int[] {3, 6, 5 ,3}, 15 );
 
 }

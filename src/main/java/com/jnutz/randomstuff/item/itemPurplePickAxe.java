@@ -1,24 +1,27 @@
 package com.jnutz.randomstuff.item;
 
+import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
-
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-
+import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemStack;
 
-public class itemRS extends Item {
+public class itemPurplePickAxe extends ItemPickaxe {
 
-    /** No parameters **/
-    public itemRS(){
+        public itemPurplePickAxe(ToolMaterial material){
 
-        super();
+            super(material);
 
-    }
+            this.setCreativeTab(PurpTab.PurpleTab);
+            this.setUnlocalizedName("purplePickAxe");
+            this.setMaxStackSize(1);
 
-    /** Setting Name In MC Form For All Items Based Off This Class **/
+        }
+
+    //Setting Name In MC Form
     @Override
     public String getUnlocalizedName(){
 
@@ -39,7 +42,7 @@ public class itemRS extends Item {
 
     }
 
-    /** Setting Texture For All Items Based Off This Class **/
+    //Setting Image To Same As Name
     @Override
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconRegister iconRegister){
@@ -47,4 +50,5 @@ public class itemRS extends Item {
         itemIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
 
     }
+
 }
