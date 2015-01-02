@@ -13,7 +13,6 @@ public class BlockFlag extends blockRS {
         super(material);
         this.setBlockName(Names.Blocks.FLAG);
         this.setBlockTextureName(Names.Blocks.FLAG);
-        this.setCreativeTab(PurpTab.PurpleTab);
         this.setHardness(2.45f);
 
         /**

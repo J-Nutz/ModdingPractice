@@ -15,7 +15,6 @@ import net.minecraft.potion.PotionEffect;
 public class ModItems {
 
     /** Initiating Items **/
-    public static final itemRS mapleLeaf = new itemMapleLeaf();
     public static final itemRS purpleIngot = new purpleIngot();
     public static final ItemSword poopSword = new itemPoopSword(itemMaterials.poopMat);
     public static final ItemPickaxe purplePickaxe = new itemPurplePickAxe(itemMaterials.purpleMat);
@@ -45,7 +44,6 @@ public class ModItems {
         /- Item Name
         /- MC String Name
         **/
-        GameRegistry.registerItem(mapleLeaf, "mapleLeaf");
         GameRegistry.registerItem(poopSword, "poopSword");
         GameRegistry.registerItem(purpleIngot, "purpleIngot");
         GameRegistry.registerItem(purplePickaxe, "purplePickaxe");

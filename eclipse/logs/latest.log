@@ -1,27 +1,36 @@
-[21:29:04] [main/INFO]: Setting user: Player359
-[21:29:05] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:29:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
-[21:29:11] [Sound Library Loader/INFO]: Sound engine started
-[21:29:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:29:13] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:29:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
-[21:29:13] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:29:13] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:29:14] [Sound Library Loader/INFO]: Sound engine started
-[21:35:59] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:35:59] [Server thread/INFO]: Generating keypair
-[21:35:59] [Server thread/INFO]: Preparing start region for level 0
-[21:36:00] [Server thread/INFO]: Changing view distance to 6, from 10
-[21:36:01] [Server thread/INFO]: Player359[local:E:e0c0038c] logged in with entity id 162 at (-1277.138285722074, 4.0, 141.8988959918211)
-[21:36:01] [Server thread/INFO]: Player359 joined the game
-[21:36:04] [Server thread/INFO]: Saving and pausing game...
-[21:36:04] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[21:36:04] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[21:36:04] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[21:36:05] [Server thread/INFO]: Stopping server
-[21:36:05] [Server thread/INFO]: Saving players
-[21:36:05] [Server thread/INFO]: Saving worlds
-[21:36:05] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
-[21:36:05] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
-[21:36:05] [Server thread/INFO]: Saving chunks for level 'testing'/The End
-[21:36:06] [Client thread/INFO]: Stopping!
+[22:52:11] [main/INFO]: Setting user: Player171
+[22:52:13] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:52:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
+[22:52:19] [Sound Library Loader/INFO]: Sound engine started
+[22:52:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:52:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:52:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff
+[22:52:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:52:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:52:22] [Sound Library Loader/INFO]: Sound engine started
+[22:52:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:52:37] [Server thread/INFO]: Generating keypair
+[22:52:38] [Server thread/INFO]: Preparing start region for level 0
+[22:52:39] [Server thread/INFO]: Changing view distance to 6, from 10
+[22:52:39] [Server thread/INFO]: Player171[local:E:647709eb] logged in with entity id 162 at (-1277.0311974037445, 4.0, 142.84852845270706)
+[22:52:39] [Server thread/INFO]: Player171 joined the game
+[22:52:53] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[22:52:54] [Server thread/INFO]: [Player171: Set own game mode to Survival Mode]
+[22:52:54] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:52:58] [Server thread/INFO]: [Player171: Set own game mode to Creative Mode]
+[22:52:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:53:07] [Server thread/INFO]: [Player171: Set own game mode to Survival Mode]
+[22:53:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:53:19] [Server thread/INFO]: [Player171: Set own game mode to Creative Mode]
+[22:53:19] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:53:24] [Server thread/INFO]: Saving and pausing game...
+[22:53:24] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
+[22:53:24] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
+[22:53:24] [Server thread/INFO]: Saving chunks for level 'testing'/The End
+[22:53:25] [Server thread/INFO]: Stopping server
+[22:53:25] [Server thread/INFO]: Saving players
+[22:53:25] [Server thread/INFO]: Saving worlds
+[22:53:25] [Server thread/INFO]: Saving chunks for level 'testing'/Overworld
+[22:53:25] [Server thread/INFO]: Saving chunks for level 'testing'/Nether
+[22:53:25] [Server thread/INFO]: Saving chunks for level 'testing'/The End
+[22:53:26] [Client thread/INFO]: Stopping!
