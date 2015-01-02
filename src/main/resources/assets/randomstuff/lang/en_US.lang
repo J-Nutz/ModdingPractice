@@ -1,5 +1,4 @@
 //Naming Items
-item.randomstuff:mapleLeaf.name=Maple Leaf
 item.randomstuff:poopSword.name=Poop Sword
 item.randomstuff:purplePickAxe.name=Purple Pickaxe
 item.randomstuff:purpleAxe.name=Purple Axe
@@ -12,8 +11,7 @@ item.randomstuff:candyCane.name=Candy Cane
 
 //Naming Blocks
 tile.randomstuff:flag.name=Flag
-
-//Ores
+tile.randomstuff:purpleBlock.name=Purple Block
 tile.randomstuff:purpleOre.name=Purple Ore
 
 //Creative Tabs

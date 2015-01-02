@@ -41,7 +41,12 @@ public class RandomStuff {
         /** Initializes the blocks **/
         ModBlocks.preInit();
 
-        /** Adds Smelting Recipes **/
+        /** Initializes the block crafting recipes **/
+        ModBlocks.craftingPreInit();
+
+        /** Adds Smelting Recipes
+         *  Make Own Class
+         * **/
         GameRegistry.addSmelting(new ItemStack(ModBlocks.purpleOre, 1, 1), new ItemStack(ModItems.purpleIngot, 1, 11), 0.4F);
 
     }

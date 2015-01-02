@@ -1,5 +1,6 @@
 package com.jnutz.randomstuff.block;
 
+import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
 
 import cpw.mods.fml.relauncher.Side;
@@ -15,6 +16,7 @@ public class blockRS extends Block {
     public blockRS(Material material){
 
         super(material);
+        setCreativeTab(PurpTab.PurpleTab);
 
     }
 
