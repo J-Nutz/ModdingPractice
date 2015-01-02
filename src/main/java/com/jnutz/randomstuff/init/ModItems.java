@@ -5,6 +5,7 @@ import com.jnutz.randomstuff.item.*;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 
+import net.minecraft.item.ItemAxe;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemSword;
@@ -18,6 +19,7 @@ public class ModItems {
     public static final itemRS purpleIngot = new purpleIngot();
     public static final ItemSword poopSword = new itemPoopSword(itemMaterials.poopMat);
     public static final ItemPickaxe purplePickaxe = new itemPurplePickAxe(itemMaterials.purpleMat);
+    public static final ItemAxe purpleAxe = new itemPurpleAxe(itemMaterials.purpleMat);
 
     /** Initiating Foods
     /- Constructors First int = food regenerated/2
@@ -47,6 +49,7 @@ public class ModItems {
         GameRegistry.registerItem(poopSword, "poopSword");
         GameRegistry.registerItem(purpleIngot, "purpleIngot");
         GameRegistry.registerItem(purplePickaxe, "purplePickaxe");
+        GameRegistry.registerItem(purpleAxe, "purpleAxe");
 
         /** Foods **/
         GameRegistry.registerItem(candyCane, "candyCane");

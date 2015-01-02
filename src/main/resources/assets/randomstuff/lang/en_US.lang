@@ -1,7 +1,8 @@
 //Naming Items
 item.randomstuff:mapleLeaf.name=Maple Leaf
 item.randomstuff:poopSword.name=Poop Sword
-item.randomstuff:purplePickAxe=Purple Pickaxe
+item.randomstuff:purplePickAxe.name=Purple Pickaxe
+item.randomstuff:purpleAxe.name=Purple Axe
 
 //Naming Ingots
 item.randomstuff:purpleIngot.name=Purple Ingot
