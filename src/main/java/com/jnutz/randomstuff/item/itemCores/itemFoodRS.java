@@ -1,40 +1,24 @@
-package com.jnutz.randomstuff.food;
+package com.jnutz.randomstuff.item.itemCores;
 
+import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
-import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.PotionEffect;
-import net.minecraft.world.World;
 
-public class candyCane extends ItemFood {
+public class itemFoodRS extends ItemFood{
 
-    private PotionEffect[] effects;
+    public itemFoodRS(String unlocalizedName,int healAmount, float saturationModifier, boolean wolvesFavorite, PotionEffect... effects){
 
-    public candyCane(String unlocalizedName, int healAmount, float saturationModifier, boolean wolvesFavorite, PotionEffect... effects) {
         super(healAmount, saturationModifier, wolvesFavorite);
-        this.setUnlocalizedName("candyCane");
-        this.setCreativeTab(CreativeTabs.tabFood);
-        this.effects = effects;
+        setCreativeTab(PurpTab.PurpleTab);
+
     }
 
-    //Not Too Sure
-    //Know The For Loop, applies each potion effect
-    @Override
-    protected void onFoodEaten(ItemStack stack, World world, EntityPlayer player) {
-        super.onFoodEaten(stack, world, player);
-
-        for (int i = 0; i < effects.length; i ++) {
-            if (!world.isRemote && effects[i] != null && effects[i].getPotionID() > 0)
-                player.addPotionEffect(new PotionEffect(this.effects[i].getPotionID(), this.effects[i].getDuration(), this.effects[i].getAmplifier(), this.effects[i].getIsAmbient()));
-        }
-    }
-
-    //Setting Name In MC Form For All Items Based Off This Class
+    /** Setting Name In MC Form For All Items Based Off This Class **/
     @Override
     public String getUnlocalizedName(){
 
@@ -55,7 +39,7 @@ public class candyCane extends ItemFood {
 
     }
 
-    //Setting Texture For All Items Based Off This Class
+    /** Setting Texture For All Items Based Off This Class **/
     @Override
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconRegister iconRegister){
@@ -63,7 +47,5 @@ public class candyCane extends ItemFood {
         itemIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
 
     }
-
-
 
 }

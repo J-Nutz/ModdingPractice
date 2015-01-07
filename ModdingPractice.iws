@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2cef736-3c2c-40ae-8daa-6907504bfe44" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/08e49200-0644-3742-931a-94fcbb560d07.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/1178851a-8246-318e-85f8-1ae4517330a2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/1b8221f7-5861-330e-bef0-ac96b785ff27.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-29-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-30-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2014-12-31-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-01-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-02-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-03-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-03-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-03-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-03-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-03-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-1.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-2.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-3.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-4.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-5.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-6.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-01-04-7.log.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/25b11e49-a7c5-3d9c-8271-d4f68f211051.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/2654e3c3-150d-3857-a426-0b141796a4e0.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/29aa321a-1ce7-35de-bfab-f37fa4095c7d.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/34692304-57b2-31f8-a84c-d22c6ff753f7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/3bdd7bc1-57b3-3ed1-a14e-cc7341dec1b1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/3c098a03-04cc-31fd-856f-be4ccab4daf7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/3c604947-c962-3363-b382-8bb20e72179d.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/3e1fbeae-13f8-3fbb-9842-63bc739da918.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/3f66a67c-db6c-36b7-b762-d7a40c17883b.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/41196538-4c2b-371d-b141-0e51ad033fac.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/4292534d-f2c8-3960-ae02-8fc77d827539.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/446355e4-985a-3d9c-a63c-4d95aa4b0dff.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/4bf8ac1c-047f-3d7f-9946-705bc571459f.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/538c2a55-7afc-37c7-ab76-b8f0ee8467dd.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/5f90bf1f-575d-3542-89d7-731859eee6f2.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/68723020-3c7d-332b-9007-b1f8c7a00304.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/6ae8fe40-3ccb-3755-8fd2-c5445728b386.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/6b70ab1d-ea1f-3080-82f2-6a9952eea911.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/6ecd1629-dee4-373d-9457-481bd36b0826.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/7beaed24-0a62-3f97-b968-4d6f3b3f19c7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/8c1ef9e6-3632-3ca3-9eee-559f6e0a39df.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/8ce64f24-c135-3001-9ff7-8b03d3719e4f.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/block/BlockFlag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/block/BlockPurpleBlock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/block/BlockPurpleOre.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/food/CandyCane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/proxy/ClientProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/proxy/CommonProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/handler/ConfigurationHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/client/gui/GuiFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/proxy/IProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/utilities/ItemDayWand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/ItemPoop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/tools/ItemPoopSword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/tools/ItemPurpleAxe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/ingots/ItemPurpleIngot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/tools/ItemPurplePickAxe.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/utility/LogHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/init/ModBlocks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/init/ModCraftingBlocks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/init/ModCraftingItems.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/generation/ModGen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/client/gui/ModGuiConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/init/ModItems.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/init/ModSmelting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/reference/Names$Blocks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/reference/Names$Ores.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/reference/Names.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/generation/OreGen.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/client/gui/PurpCreativeTabs.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/client/gui/PurpTab.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/RandomStuff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/reference/Reference.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/proxy/ServerProxy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/data/Village.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/a2d3cb04-2e77-32ea-a568-7872ba7e9c5c.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/ac42e7c5-bf90-3ead-ba50-c551df161044.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/b743052f-5855-37e7-a97b-fd551acafef4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/bf0c47d3-02b6-3463-8e38-457226b1407c.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/block/blockCores/blockOreRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/block/blockCores/blockRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/ca560dd3-ebf9-3fc9-b2e6-088534082c81.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/candyCane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/d566deca-6b21-32cb-af90-4edf09eeac2e.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/d60321ce-54ba-31e5-bac3-cbb6a732015a.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/d75ffc85-72b0-3b94-be32-d104d89a3a6a.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/d96be705-d0ae-31d3-afba-31a637d80f6d.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/dayWand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/items/dayWand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/dfa57433-6d23-31fd-a282-bdca1175e553.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/e5a660b6-9d51-36ee-858e-f73e02a3f36f.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/eb3e37b3-0c87-3026-b460-637c38fd4fdd.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/eb7081a5-32ec-3752-9cbc-963a701e6fdd.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/f79c4f00-774e-3daf-ac9c-aebcbcc29c64.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/f8a1463c-07b2-3433-918f-386b8accf0f1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/fe207da4-45aa-3a2a-bf67-72a700290388.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/playerdata/fe736038-102e-365b-a97e-eabc472944ec.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/blocks/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/forcedchunks.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/DIM-1/forcedchunks.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/DIM1/forcedchunks.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemAxeRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemFoodRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemIngotRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemMaterials.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemPickaxeRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/item/itemCores/itemWandRS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/level.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/level.dat_mcr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/level.dat_old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/mapleLeaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/poop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/items/poop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/poopSword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/purpleAxe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/items/purpleAxe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/blocks/purpleBlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/blocks/purpleBlock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/armor/purpleChest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/armor/purpleChest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/armor/purpleHelmet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/armor/purpleHelmet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/purpleIngot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/items/purpleIngot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/armor/purpleLegs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/armor/purpleLegs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/blocks/purpleOre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/blocks/purpleOre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/items/purplePickAxe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/items/purplePickAxe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/armor/purpleShoes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/armor/purpleShoes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/entities/purple_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/entities/purple_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/textures/entities/purple_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/textures/entities/purple_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-1.-1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-1.0.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-1.1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-2.-1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-2.0.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-3.-1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.-3.0.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.0.-1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.0.-2.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.0.0.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.0.1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.1.-1.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.1.-2.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/region/r.1.0.mca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/session.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing-20150101-224114.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/DIM-1/data/villages.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/DIM1/data/villages.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/data/villages.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/08e49200-0644-3742-931a-94fcbb560d07.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/1178851a-8246-318e-85f8-1ae4517330a2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/1b8221f7-5861-330e-bef0-ac96b785ff27.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/23d7e7bc-6e91-3bb0-aef5-04f8d5ce94c1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/25b11e49-a7c5-3d9c-8271-d4f68f211051.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/2654e3c3-150d-3857-a426-0b141796a4e0.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/29aa321a-1ce7-35de-bfab-f37fa4095c7d.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/34692304-57b2-31f8-a84c-d22c6ff753f7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/3bdd7bc1-57b3-3ed1-a14e-cc7341dec1b1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/3c098a03-04cc-31fd-856f-be4ccab4daf7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/3c604947-c962-3363-b382-8bb20e72179d.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/3e1fbeae-13f8-3fbb-9842-63bc739da918.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/3f66a67c-db6c-36b7-b762-d7a40c17883b.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/41196538-4c2b-371d-b141-0e51ad033fac.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/4292534d-f2c8-3960-ae02-8fc77d827539.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/446355e4-985a-3d9c-a63c-4d95aa4b0dff.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/4bf8ac1c-047f-3d7f-9946-705bc571459f.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/538c2a55-7afc-37c7-ab76-b8f0ee8467dd.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/5f90bf1f-575d-3542-89d7-731859eee6f2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/68723020-3c7d-332b-9007-b1f8c7a00304.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/6ae8fe40-3ccb-3755-8fd2-c5445728b386.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/6b70ab1d-ea1f-3080-82f2-6a9952eea911.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/6ecd1629-dee4-373d-9457-481bd36b0826.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/7beaed24-0a62-3f97-b968-4d6f3b3f19c7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/8c1ef9e6-3632-3ca3-9eee-559f6e0a39df.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/8ce64f24-c135-3001-9ff7-8b03d3719e4f.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/food/CandyCane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemDayWand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemNightWand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ItemPoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPoopSword.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPurpleAxe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ingots/ItemPurpleIngot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPurplePickAxe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModCraftingBlocks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModCraftingItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModSmelting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModdingPractice.iws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/RandomStuff.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/com/jnutz/randomstuff/TODO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/a2d3cb04-2e77-32ea-a568-7872ba7e9c5c.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/ac42e7c5-bf90-3ead-ba50-c551df161044.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/b743052f-5855-37e7-a97b-fd551acafef4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/bf0c47d3-02b6-3463-8e38-457226b1407c.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockCores/blockOreRS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/ca560dd3-ebf9-3fc9-b2e6-088534082c81.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2014-12-29_18.01.33-client.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2014-12-29_18.05.47-client.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2014-12-31_19.26.41-client.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2014-12-31_19.28.08-client.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2014-12-31_19.29.05-client.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/d566deca-6b21-32cb-af90-4edf09eeac2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/d60321ce-54ba-31e5-bac3-cbb6a732015a.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/d75ffc85-72b0-3b94-be32-d104d89a3a6a.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/d96be705-d0ae-31d3-afba-31a637d80f6d.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/dfa57433-6d23-31fd-a282-bdca1175e553.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/e5a660b6-9d51-36ee-858e-f73e02a3f36f.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/eb3e37b3-0c87-3026-b460-637c38fd4fdd.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/eb7081a5-32ec-3752-9cbc-963a701e6fdd.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/assets/randomstuff/lang/en_US.lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/f79c4f00-774e-3daf-ac9c-aebcbcc29c64.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/f8a1463c-07b2-3433-918f-386b8accf0f1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/fe207da4-45aa-3a2a-bf67-72a700290388.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/saves/testing/stats/fe736038-102e-365b-a97e-eabc472944ec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemAxeRS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemFoodRS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemIngotRS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/RandomStuff/mcmod.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/options.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
+      <change type="DELETED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\food\candyCane.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemPoopSword.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemPurpleAxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemPurplePickAxe.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\purpleIngot.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\block\blockPurpleOre.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/BlockPurpleOre.java" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\block\blockRS.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockCores/blockRS.java" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemMaterials.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemMaterials.java" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemPickaxeRS.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemPickaxeRS.java" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\item\itemRS.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemRS.java" />
+      <change type="MOVED" beforePath="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\java\com\jnutz\randomstuff\reference\NamingAndIcon.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemWandRS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/BlockFlag.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/BlockFlag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModBlocks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModItems.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModItems.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/RandomStuff.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/RandomStuff.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/TODO" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/TODO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockPurpleBlock.java" afterPath="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockPurpleBlock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/randomstuff/lang/en_US.lang" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+    </list>
+    <ignored path="ModdingPractice.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ModdingPractice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TODO" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/TODO">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CandyCane.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/food/CandyCane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="561">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemPurpleIngot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ingots/ItemPurpleIngot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="578">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemDayWand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemDayWand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="714">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModItems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1088">
+              <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/randomstuff/lang/en_US.lang">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="442">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemNightWand.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemNightWand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7526042" vertical-offset="544" max-vertical-offset="1156">
+              <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itemWandRS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemWandRS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="969">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="itemAxeRS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemAxeRS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="867">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/food/CandyCane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ingots/ItemPurpleIngot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemWandRS.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/randomstuff/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemDayWand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/TODO" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemNightWand.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages PackagesPane="true" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RandomStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RandomStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.jnutz.randomstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RandomStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.jnutz.randomstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RandomStuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.jnutz.randomstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randomstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModdingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="randomstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\resources\assets\randomstuff\textures\items" />
+      <recent name="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\resources\assets\randomstuff\textures\items\tools" />
+      <recent name="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\resources\assets\randomstuff\textures\items\foods" />
+      <recent name="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\resources\assets\randomstuff\textures\blocks" />
+      <recent name="C:\Users\Jonah\Documents\Modding\Minecraft\1.7\ModdingPractice\src\main\resources\assets\randomstuff\textures\armor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Client">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RandomStuff" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RandomStuff" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2cef736-3c2c-40ae-8daa-6907504bfe44" name="Default" comment="" />
+      <created>1419896395472</created>
+      <option name="number" value="Default" />
+      <updated>1419896395472</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed mcmod.info">
+      <created>1419898562380</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1419898562380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed mcmod.info">
+      <created>1419898602590</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1419898602591</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed mcmod.info gui">
+      <created>1419898667911</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1419898667911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="random code updates">
+      <created>1419898693114</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1419898693114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added candy canes">
+      <created>1419915146778</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1419915146778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added materials for poop sword">
+      <created>1419915170689</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1419915170689</updated>
+    </task>
+    <task id="LOCAL-00007" summary="code cleanup">
+      <created>1419915196627</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1419915196627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added new texture for maple leaf">
+      <created>1419915213799</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1419915213799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added flag block">
+      <created>1419921971123</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1419921971123</updated>
+    </task>
+    <task id="LOCAL-00010" summary="couple item changes">
+      <created>1419922008058</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1419922008058</updated>
+    </task>
+    <task id="LOCAL-00011" summary="testing logs">
+      <created>1419922022846</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1419922022846</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Code Updates">
+      <created>1420078945299</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1420078945299</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added purple ore and ingot">
+      <created>1420078971795</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1420078971795</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added custom creative tab">
+      <created>1420078989642</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1420078989642</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ore now gens in world">
+      <created>1420165981734</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1420165981734</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added purple pickaxe">
+      <created>1420166006774</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1420166006774</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added purple axe">
+      <created>1420169971136</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1420169971136</updated>
+    </task>
+    <task id="LOCAL-00018" summary="get ready for big code clean up">
+      <created>1420169989731</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1420169989731</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added purple block and first recipe">
+      <created>1420174892352</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1420174892352</updated>
+    </task>
+    <task id="LOCAL-00020" summary="removed maple leaf">
+      <created>1420174920117</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1420174920117</updated>
+    </task>
+    <task id="LOCAL-00021" summary="code cleanup - more to come">
+      <created>1420174963418</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1420174963418</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37091503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37091503" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18381241" sideWeight="0.49878347" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21104388" sideWeight="0.50121653" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27941176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37165356" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33700788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20424597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="fixed mcmod.info" />
+    <MESSAGE value="fixed mcmod.info gui" />
+    <MESSAGE value="random code updates" />
+    <MESSAGE value="added candy canes" />
+    <MESSAGE value="added materials for poop sword" />
+    <MESSAGE value="code cleanup" />
+    <MESSAGE value="added new texture for maple leaf" />
+    <MESSAGE value="added flag block" />
+    <MESSAGE value="couple item changes" />
+    <MESSAGE value="testing logs" />
+    <MESSAGE value="Code Updates" />
+    <MESSAGE value="Added purple ore and ingot" />
+    <MESSAGE value="added custom creative tab" />
+    <MESSAGE value="ore now gens in world" />
+    <MESSAGE value="added purple pickaxe" />
+    <MESSAGE value="added purple axe" />
+    <MESSAGE value="get ready for big code clean up" />
+    <MESSAGE value="Added purple block and first recipe" />
+    <MESSAGE value="removed maple leaf" />
+    <MESSAGE value="code cleanup - more to come" />
+    <MESSAGE value="code cleanup STILL more to come" />
+    <MESSAGE value="added in cores" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in cores" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/handler/ConfigurationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277.jar!/net/minecraft/item/Item.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/item/ItemFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.61671925" vertical-offset="459" max-vertical-offset="1904">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/item/ItemArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="5491">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/cpw/mods/fml/common/registry/GameRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3110" max-vertical-offset="6681">
+          <caret line="257" column="16" selection-start-line="257" selection-start-column="3" selection-end-line="257" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/block/BlockOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1095008" vertical-offset="0" max-vertical-offset="1666">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/client/gui/PurpTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="255">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/client/gui/PurpCreativeTabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/block/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="18884" max-vertical-offset="40069">
+          <caret line="1293" column="18" selection-start-line="1293" selection-start-column="18" selection-end-line="1293" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/cpw/mods/fml/common/IWorldGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73913044" vertical-offset="0" max-vertical-offset="621">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/generation/ModGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/generation/OreGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4235104" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemMaterials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46537843" vertical-offset="0" max-vertical-offset="621">
+          <caret line="19" column="99" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/reference/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPurplePickAxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18769716" vertical-offset="0" max-vertical-offset="634">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockPurpleBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18769716" vertical-offset="0" max-vertical-offset="634">
+          <caret line="7" column="95" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/client/gui/GuiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.670347" vertical-offset="0" max-vertical-offset="634">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/client/Minecraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36231884" vertical-offset="7782" max-vertical-offset="46699">
+          <caret line="646" column="38" selection-start-line="646" selection-start-column="38" selection-end-line="646" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/item/ItemPickaxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17200674" vertical-offset="0" max-vertical-offset="593">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/item/ItemStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11467116" vertical-offset="0" max-vertical-offset="13753">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModCraftingBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/cpw/mods/fml/common/event/FMLPostInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16088328" vertical-offset="0" max-vertical-offset="634">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModSmelting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPoopSword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/tools/ItemPurpleAxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ItemPoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24132492" vertical-offset="0" max-vertical-offset="634">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.273752" vertical-offset="0" max-vertical-offset="850">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModCraftingItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.670347" vertical-offset="0" max-vertical-offset="634">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/BlockPurpleOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/reference/Names.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/BlockFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/RandomStuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemPickaxeRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemIngotRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52012885" vertical-offset="0" max-vertical-offset="952">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemFoodRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.273752" vertical-offset="0" max-vertical-offset="850">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockCores/blockRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73913044" vertical-offset="0" max-vertical-offset="731">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/block/blockCores/blockOreRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8904992" vertical-offset="42" max-vertical-offset="748">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/ingots/ItemPurpleIngot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="23134" max-vertical-offset="73253">
+          <caret line="1456" column="16" selection-start-line="1456" selection-start-column="16" selection-end-line="1456" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemWandRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/itemCores/itemAxeRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="867">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/entity/EntityLivingBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="33674" max-vertical-offset="36992">
+          <caret line="2138" column="16" selection-start-line="2138" selection-start-column="16" selection-end-line="2138" selection-end-column="16" />
+          <folding>
+            <element signature="e#69846#69847#0" expanded="false" />
+            <element signature="e#69887#69888#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/randomstuff/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1277/forgeSrc-1.7.10-10.13.2.1277-sources.jar!/net/minecraft/item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33277592" vertical-offset="8012" max-vertical-offset="22984">
+          <caret line="576" column="19" selection-start-line="576" selection-start-column="19" selection-end-line="576" selection-end-column="19" />
+          <folding>
+            <element signature="e#42878#42879#0" expanded="false" />
+            <element signature="e#42913#42914#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemDayWand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/food/CandyCane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/TODO">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jnutz/randomstuff/item/utilities/ItemNightWand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7526042" vertical-offset="544" max-vertical-offset="1156">
+          <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI" />
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RandomStuff</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI" />
+    </states>
+  </component>
+</project>

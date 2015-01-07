@@ -1,0 +1,23 @@
+/** TODO **/
+
+* Add own class for stuff such as recipes, smelting, etc * Done *
+
+* Add own class for each type of block, ore, regular, etc *
+
+* Add own class for each type of item, tools, foods, etc *
+
+* Look into texture registration (More folders then Items and blocks) *
+
+* Clean up reference folder, add more references *
+
+* Clean up com.jnutz.randomstuff *
+
+* Mess around with configs *
+
+* Add in all crafting recipes *
+
+* Rename Classes * Done *
+
+* Finish Adding Armor (Armour -> Armor - Classes) *
+
+* Add In All Items To Custom Tab *

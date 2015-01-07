@@ -2,8 +2,7 @@ package com.jnutz.randomstuff;
 
 import com.jnutz.randomstuff.generation.ModGen;
 import com.jnutz.randomstuff.handler.ConfigurationHandler;
-import com.jnutz.randomstuff.init.ModBlocks;
-import com.jnutz.randomstuff.init.ModItems;
+import com.jnutz.randomstuff.init.*;
 import com.jnutz.randomstuff.proxy.IProxy;
 import com.jnutz.randomstuff.reference.Reference;
 
@@ -13,9 +12,6 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
-import cpw.mods.fml.common.registry.GameRegistry;
-
-import net.minecraft.item.ItemStack;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class RandomStuff {
@@ -38,16 +34,17 @@ public class RandomStuff {
         /** Initializes the items **/
         ModItems.preInit();
 
+        /** Initializes the item crafting recipes **/
+        ModCraftingItems.preInit();
+
         /** Initializes the blocks **/
         ModBlocks.preInit();
 
         /** Initializes the block crafting recipes **/
-        ModBlocks.craftingPreInit();
+        ModCraftingBlocks.preInit();
 
-        /** Adds Smelting Recipes
-         *  Make Own Class
-         * **/
-        GameRegistry.addSmelting(new ItemStack(ModBlocks.purpleOre, 1, 1), new ItemStack(ModItems.purpleIngot, 1, 11), 0.4F);
+        /** Adds Smelting Recipes **/
+        ModSmelting.preInit();
 
     }
 

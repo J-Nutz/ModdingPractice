@@ -1,8 +1,16 @@
 package com.jnutz.randomstuff.init;
 
-import com.jnutz.randomstuff.food.*;
-import com.jnutz.randomstuff.item.*;
+import com.jnutz.randomstuff.item.ItemPoop;
+import com.jnutz.randomstuff.item.food.*;
+import com.jnutz.randomstuff.item.ingots.ItemPurpleIngot;
+import com.jnutz.randomstuff.item.itemCores.*;
+import com.jnutz.randomstuff.item.tools.ItemPoopSword;
+import com.jnutz.randomstuff.item.tools.ItemPurpleAxe;
+import com.jnutz.randomstuff.item.tools.ItemPurplePickAxe;
 
+
+import com.jnutz.randomstuff.item.utilities.ItemDayWand;
+import com.jnutz.randomstuff.item.utilities.ItemNightWand;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 import net.minecraft.item.ItemAxe;
@@ -15,21 +23,16 @@ import net.minecraft.potion.PotionEffect;
 public class ModItems {
 
     /** Initiating Items **/
-    public static final itemRS purpleIngot = new purpleIngot();
-    public static final ItemSword poopSword = new itemPoopSword(itemMaterials.poopMat);
-    public static final ItemPickaxe purplePickaxe = new itemPurplePickAxe(itemMaterials.purpleMat);
-    public static final ItemAxe purpleAxe = new itemPurpleAxe(itemMaterials.purpleMat);
+    public static final itemIngotRS purpleIngot = new ItemPurpleIngot();
+    public static final ItemSword poopSword = new ItemPoopSword(itemMaterials.poopMat);
+    public static final ItemPickaxe purplePickaxe = new ItemPurplePickAxe(itemMaterials.purpleMat);
+    public static final ItemAxe purpleAxe = new ItemPurpleAxe(itemMaterials.purpleMat);
+    public static final itemRS poop = new ItemPoop();
+    public static final itemWandRS dayWand = new ItemDayWand();
+    public static final itemWandRS nightWand = new ItemNightWand();
 
-    /** Initiating Foods
-    /- Constructors First int = food regenerated/2
-    /- float = saturation
-    /- boolean = wolvesFavorite ?
-    /- Potion Effect Constructors
-    /- Potion name
-    /- How many ticks it lasts (2 ticks in a second)
-    /- Then what level of potion it is ((0-2?) 0 = 1/default)
-    **/
-    public static final ItemFood candyCane = new candyCane("candyCane", 4, 0.3f, false,
+    /** Initiating Foods **/
+    public static final ItemFood candyCane = new CandyCane("candyCane", 4, 0.3f, false,
             new PotionEffect(Potion.moveSpeed.id, 200, 0),
             new PotionEffect(Potion.jump.id, 200, 0)
     );
@@ -38,16 +41,14 @@ public class ModItems {
     /** Registering Items **/
     public static void preInit(){
 
-        /**
-        /- Items
-        /- Constructors
-        /- Item Name
-        /- MC String Name
-        **/
+        /** Items **/
         GameRegistry.registerItem(poopSword, "poopSword");
         GameRegistry.registerItem(purpleIngot, "purpleIngot");
         GameRegistry.registerItem(purplePickaxe, "purplePickaxe");
         GameRegistry.registerItem(purpleAxe, "purpleAxe");
+        GameRegistry.registerItem(poop, "poop");
+        GameRegistry.registerItem(dayWand, "dayWand");
+        GameRegistry.registerItem(nightWand, "nightWand");
 
         /** Foods **/
         GameRegistry.registerItem(candyCane, "candyCane");

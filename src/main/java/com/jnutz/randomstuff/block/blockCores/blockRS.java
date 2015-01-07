@@ -1,4 +1,4 @@
-package com.jnutz.randomstuff.block;
+package com.jnutz.randomstuff.block.blockCores;
 
 import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
@@ -33,7 +33,6 @@ public class blockRS extends Block {
         return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
 
     }
-
 
     /** Sets up block texture **/
     @Override

@@ -1,0 +1,21 @@
+//Naming Items
+item.randomstuff:poopSword.name=Poop Sword
+item.randomstuff:purplePickAxe.name=Purple Pickaxe
+item.randomstuff:purpleAxe.name=Purple Axe
+item.randomstuff:poop.name=Poop
+item.randomstuff:dayWand.name=Day Wand
+item.randomstuff:nightWand.name=Night Wand
+
+//Naming Ingots
+item.randomstuff:purpleIngot.name=Purple Ingot
+
+//Naming Foods
+item.randomstuff:candyCane.name=Candy Cane
+
+//Naming Blocks
+tile.randomstuff:flag.name=Flag
+tile.randomstuff:purpleBlock.name=Purple Block
+tile.randomstuff:randomstuff:purpleOre.name=Purple Ore
+
+//Creative Tabs
+itemGroup.PurpleTab=Purple Tab

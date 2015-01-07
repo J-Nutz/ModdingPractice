@@ -1,24 +1,24 @@
-package com.jnutz.randomstuff.item;
+package com.jnutz.randomstuff.item.itemCores;
 
+import com.jnutz.randomstuff.client.gui.PurpTab;
 import com.jnutz.randomstuff.reference.Reference;
-
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
-
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-public class itemRS extends Item {
+public class itemWandRS extends Item {
 
-    /** No parameters **/
-    public itemRS(){
+    public itemWandRS() {
 
         super();
+        setCreativeTab(PurpTab.PurpleTab);
+        setMaxStackSize(1);
 
     }
 
-    /** Setting Name In MC Form For All Items Based Off This Class **/
+    //Setting Name In MC Form
     @Override
     public String getUnlocalizedName(){
 
@@ -39,7 +39,7 @@ public class itemRS extends Item {
 
     }
 
-    /** Setting Texture For All Items Based Off This Class **/
+    //Setting Image To Same As Name
     @Override
     @SideOnly(Side.CLIENT)
     public void registerIcons(IIconRegister iconRegister){
@@ -47,4 +47,5 @@ public class itemRS extends Item {
         itemIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
 
     }
+
 }

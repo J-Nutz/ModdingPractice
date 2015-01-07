@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "RandomStuff",
+    "name": "Random Stuff",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "description": "All The Purple Dankness",
+    "credits": "Pahimar For His LetsModReboot, CovertJaguar & KingLemming For Their Github Code",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Jnutz" ],
+    "parent":"",
+    "screenshots": [],
+    "dependencies": [
+      "mod_MinecraftForge"
+    ]
+  }
+  ]
